@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Zbytniewski</h1>
-<h3 align="center">Third year computyer science student at the University of Gdańsk</h3>
+<h3 align="center">Third year computer science student at the University of Gdańsk</h3>
 
 - 🔭 I’m currently working on [NEAT algorithms](https://github.com/szbytniewski/ReinforcmentTraningInAGame)
 
